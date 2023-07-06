@@ -1,2 +1,0 @@
-# serversidestarterbundle
-Easy Starter Bundle
