@@ -1,0 +1,3 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+StarterPack1Desc,items,Item,,, Hello Survivor. Equip this note and use it to receive your starter gear. Good Luck and Happy surviving.  -Cornl3read
